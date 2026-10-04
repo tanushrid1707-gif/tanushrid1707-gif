@@ -1,16 +1,68 @@
-## Hi there 👋
+# Hi there, I'm Tanushri D 👋
 
-<!--
-**tanushrid1707-gif/tanushrid1707-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### First-Year ECE Student | Aspiring VLSI & Chip Design Engineer
 
-Here are some ideas to get you started:
+> Exploring Electronics, Digital Systems, VLSI Design, and Programming — one concept and one project at a time. ⚡
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👩‍💻 About Me
+
+🎓 **Education:** Electronics and Communication Engineering (ECE) Student
+
+💡 **Interested In:** VLSI Design, Chip Designing, Digital Electronics & Embedded Systems
+
+💻 **Programming:** C • Python
+
+🔧 **Currently Exploring:** Digital Logic, Computer Architecture, C Programming & Hardware Fundamentals
+
+🚀 **Career Goal:** To build a strong career in **VLSI and Semiconductor/Chip Design**
+
+🧠 **Learning Philosophy:** Learn the fundamentals → Build projects → Experiment → Improve
+
+---
+
+## 🎯 Areas of Interest
+
+- 🔹 VLSI & Chip Designing
+- 🔹 Digital Electronics
+- 🔹 Semiconductor Technology
+- 🔹 Embedded Systems
+- 🔹 Computer Architecture
+- 🔹 Hardware–Software Interaction
+- 🔹 C & Python Programming
+- 🔹 Problem Solving & Logical Thinking
+
+---
+
+## 💻 Tech Stack
+
+### Programming Languages
+`C` `Python`
+
+### Hardware & Electronics
+`Digital Logic` `Basic Electronics` `Circuit Design`
+
+### Tools & Platforms
+`Git` `GitHub` `VS Code`
+
+### Currently Exploring
+`VLSI Design` `Verilog` `RTL Design` `Embedded Systems`
+
+---
+
+## 🚀 Currently Working On
+
+🔹 Strengthening my **C programming fundamentals**
+
+🔹 Learning **Python programming**
+
+🔹 Building a foundation in **Digital Electronics**
+
+🔹 Exploring **VLSI and Chip Design concepts**
+
+🔹 Understanding how software interacts with hardware
+
+🔹 Developing small programming and electronics-based projects
+
+---
